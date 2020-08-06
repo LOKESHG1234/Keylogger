@@ -9,7 +9,7 @@ pip install pynput <br/>
 If You Are using Python3 make sure to install pynput using the following command: <br/>
 pip3 install pynput <br/>
 # Usage
--> Set Your Google mail and password in zlogger.py where it is told in the code.<br/>
+-> Set Your Google mail and password in zlogger.py where it is told in the code.
 -> Tranfer both the zlogger.py and keylogger.py to target and run the zlogger.py to get the keystrikes.<br/>
 -> After every 2 minutes you will get the strikes on the mail you entered.<br/>
 # About the code
